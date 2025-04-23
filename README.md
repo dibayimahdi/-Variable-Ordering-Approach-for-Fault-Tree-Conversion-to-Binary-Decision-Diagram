@@ -60,6 +60,6 @@ If you use this code or dataset, please cite our paper:
 🧾 License
 This project is provided for academic and research purposes. For commercial use, please contact the authors.
 
-Would you also like help generating a `CITATION.cff` or a `requirements.txt` to go along with this?
+
 
 
