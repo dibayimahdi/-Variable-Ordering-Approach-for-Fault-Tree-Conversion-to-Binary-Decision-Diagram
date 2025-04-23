@@ -2,8 +2,8 @@
 
 This repository contains Python scripts and datasets used in our paper:
 
-> **"Improving the Efficiency of Fault Tree Analysis through BDD Variable Reordering"**  
-> *Sima Noori and Babak Hosseini, 2024 IEEE 20th International Conference on Software Architecture (ICSA)*  
+> **"A Heuristic Variable Ordering Approach for Fault Tree Conversion to Binary Decision Diagram"**  
+> Mahdi Dibaei, Kai-Steffen Hielscher, Reinhard German, 2024 6th International Conference on System Reliability and Safety Engineering (SRSE)*  
 > [DOI: 10.1109/ICSA57991.2024.10772497](https://ieeexplore.ieee.org/abstract/document/10772497)
 
 ---
