@@ -1,0 +1,1 @@
+# -Variable-Ordering-Approach-for-Fault-Tree-Conversion-to-Binary-Decision-Diagram
