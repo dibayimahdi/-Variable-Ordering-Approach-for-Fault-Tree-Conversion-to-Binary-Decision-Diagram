@@ -4,7 +4,8 @@ This repository contains Python scripts and datasets used in our paper:
 
 > **"A Heuristic Variable Ordering Approach for Fault Tree Conversion to Binary Decision Diagram"**  
 > Mahdi Dibaei, Kai-Steffen Hielscher, Reinhard German, 2024 6th International Conference on System Reliability and Safety Engineering (SRSE)*  
-> [DOI: 10.1109/ICSA57991.2024.10772497](https://ieeexplore.ieee.org/abstract/document/10772497)
+📚 Available on IEEE Xplore  
+🔗 [View the Paper](https://ieeexplore.ieee.org/abstract/document/10772497)
 
 ---
 
