@@ -46,13 +46,13 @@ This project uses the dd package for Binary Decision Diagram operations.
 🔗 Citation
 If you use this code or dataset, please cite our paper:
 
-@inproceedings{noori2024bdd,
-  title={Improving the Efficiency of Fault Tree Analysis through BDD Variable Reordering},
-  author={Noori, Sima and Hosseini, Babak},
-  booktitle={2024 IEEE International Conference on Software Architecture (ICSA)},
+@inproceedings{dibaei2024heuristic,
+  title={A Heuristic Variable Ordering Approach for Fault Tree Conversion to Binary Decision Diagram},
+  author={Dibaei, Mahdi and Hielscher, Kai-Steffen and German, Reinhard},
+  booktitle={2024 6th International Conference on System Reliability and Safety Engineering (SRSE)},
+  pages={301--307},
   year={2024},
-  organization={IEEE},
-  doi={10.1109/ICSA57991.2024.10772497}
+  organization={IEEE}
 }
 
 
